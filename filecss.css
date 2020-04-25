@@ -1,0 +1,116 @@
+/* CSS Document */
+.bg-img-index{
+	background-image:url("https://s3.envato.com/files/247356275/preview.jpg");
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	height:auto;
+	max-width:100%;
+	}
+	
+.img1{
+   
+	height:180px;
+	width:180px;
+    }
+
+.name{
+	color:#FFFFFF;
+	padding-top:60px;
+	
+	}
+	.responsive {
+  width: 100%;
+  height:auto;
+}
+.name1{
+	color:#FFFFFF;
+	/*padding:0px 620px;*/
+	}
+
+.welcom{
+	color:#FFFFFF;
+	/*padding:0px 680px;*/
+}
+
+.row{
+	display:table;
+}
+
+.column{
+	float:left;
+	width:50%;
+}
+
+.bg-img-skills{
+	background-image:url("https://i2.wp.com/chriskratzer.com/wp-content/uploads/2016/02/black-background-wood-hd-desktop-wallpaper-widescreen-high.jpg"); 
+	background-repeat:no-repeat;
+	background-size: cover;
+	height:auto;
+	max-width:100%;
+	background-attachment: fixed;
+}
+
+.bg-img-edu{
+	background-image:url("https://ak8.picdn.net/shutterstock/videos/11373458/thumb/1.jpg"); 
+	background-repeat:no-repeat;
+	background-size: cover;
+	height:auto;
+	background-attachment: fixed;
+	max-width:100%;
+	}
+
+.bg-img-con{
+	background-image:url("https://blog.devicemagic.com/hubfs/iphone-x-3706545_1920.jpg"); 
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	height:auto;
+	max-width:100%;
+	}
+	
+	.bg-img-exp{
+	background-image:url("https://www.ecopetit.cat/wpic/mpic/98-989256_download-free-hd-dark-nature-black-background-hd.jpg"); 
+	background-repeat:no-repeat;
+	background-size: cover;
+	height:auto;
+	background-attachment: fixed;
+	max-width:100%;
+	}
+	
+.contact{
+	color:#FFFFFF;
+	font-size:16px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.address{
+	font-size:17px;
+	color:#FFF;
+	margin-top:200px;
+}
+
+i {
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+
+.right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
+.down{
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
