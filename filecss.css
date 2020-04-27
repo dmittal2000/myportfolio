@@ -1,6 +1,6 @@
 /* CSS Document */
 .bg-img-index{
-	background-image:url("https://s3.envato.com/files/247356275/preview.jpg");
+	background-image:url("preview.jpg");
 	background-repeat:no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
@@ -43,7 +43,7 @@
 }
 
 .bg-img-skills{
-	background-image:url("https://i2.wp.com/chriskratzer.com/wp-content/uploads/2016/02/black-background-wood-hd-desktop-wallpaper-widescreen-high.jpg"); 
+	background-image:url("black-background-wood-hd-desktop-wallpaper-widescreen-high.jpg"); 
 	background-repeat:no-repeat;
 	background-size: cover;
 	height:auto;
@@ -52,7 +52,7 @@
 }
 
 .bg-img-edu{
-	background-image:url("https://ak8.picdn.net/shutterstock/videos/11373458/thumb/1.jpg"); 
+	background-image:url("1.jpg"); 
 	background-repeat:no-repeat;
 	background-size: cover;
 	height:auto;
@@ -61,7 +61,7 @@
 	}
 
 .bg-img-con{
-	background-image:url("https://blog.devicemagic.com/hubfs/iphone-x-3706545_1920.jpg"); 
+	background-image:url("iphone-x-3706545_1920.jpg"); 
 	background-repeat:no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
@@ -70,7 +70,7 @@
 	}
 	
 	.bg-img-exp{
-	background-image:url("https://www.ecopetit.cat/wpic/mpic/98-989256_download-free-hd-dark-nature-black-background-hd.jpg"); 
+	background-image:url("98-989256_download-free-hd-dark-nature-black-background-hd.jpg"); 
 	background-repeat:no-repeat;
 	background-size: cover;
 	height:auto;
